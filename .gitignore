@@ -1,0 +1,13 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.log
+*.tar
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
